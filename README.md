@@ -1,4 +1,4 @@
-# Caravan - Stateless Multi-sig Coordinator
+# Caravan - Stateless Multisig Coordinator
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Build Status](https://travis-ci.com/unchained-capital/caravan.svg?branch=master)](https://travis-ci.com/unchained-capital/caravan)
